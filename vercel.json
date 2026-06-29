@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/실적 대시보드.html" }
+  ]
+}
